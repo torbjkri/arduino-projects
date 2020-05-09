@@ -1,7 +1,6 @@
 #include <ESP8266WiFi.h>
+#include "/home/wubster/git/arduino-projects/esp8266/config.h"
 
-const char *ssid = "";
-const char *pw = "";
 
 void setup() {
   // put your setup code here, to run once:
